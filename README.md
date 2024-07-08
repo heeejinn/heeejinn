@@ -12,7 +12,6 @@
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) ![RStudio](https://img.shields.io/badge/rstudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white) ![Visual Studio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white) 
 
 
-## Hi there 👋
 
 <!--
 **heeejinn/heeejinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
