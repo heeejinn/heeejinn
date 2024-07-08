@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Welcome+to+my+Github&fontSize=70&fontAlign=50&fontAlignY=50&desc=HAPPY+DAY%21&descSize=20&descAlign=50&descAlignY=60)
----
+
 ### 📚 Major 📚
 ![Statistics](https://img.shields.io/badge/Statistics-000000.svg?&style=for-the-badge) ![Master's Degree](https://img.shields.io/badge/Master'sdegree-000000.svg?&style=for-the-badge) 
 ---
